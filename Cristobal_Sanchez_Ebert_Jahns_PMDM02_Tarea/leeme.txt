@@ -1,0 +1,10 @@
+buenas tardes, he tenido muchos problemas con java ME, 
+en vista de que se acercaba la fecha de presentacion de la tarea y no encontraba solucion, 
+he optado por realizar la tarea con android studio giraffe.
+
+adjunto:
+
+-proyecto para importar Tarea_PMDM02.zip
+-directorio del proyecto
+-la apk para instalar en un dispositivo movil
+-informe

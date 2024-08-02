@@ -1,0 +1,5 @@
+adjunto:
+- directorio del proyecto (Tarea_PMDM03)
+- fichero .zip (Tarea_PMDM03.zip)
+- apk (PMDM03.apk)
+- informe(Cristobal_Sanchez_Ebert_Jahns_PMDM03_Tarea)

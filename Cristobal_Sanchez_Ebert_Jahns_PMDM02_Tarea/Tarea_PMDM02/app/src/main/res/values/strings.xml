@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Tarea_PMDM02</string>
+    <string name="titulo_continentes">Continentes</string>
+    <string name="selecciona_continente">Selecciona un Continente</string>
+    <string name="titulo_africa">África</string>
+    <string name="descripcion_africa">África es el tercer continente del mundo por extensión territorial y tiene más de mil millones de habitantes. Rodeada por el océano Atlántico y el Índico, además del mar Mediterráneo por el norte, África es una vasta masa de tierra que se extiende por 8.000 kilómetros de norte a sur y 7.500 de este a este.</string>
+    <string name="titulo_america">América</string>
+    <string name="descripcion_america">América es un amplio continente que se extiende en el sentido de los meridianos, y además, tiene un largo desarrollo latitudinal. América es la segunda masa de tierra más grande del planeta, luego de Asia, comprende una extensión aproximada de 42.262.142 km².</string>
+    <string name="titulo_asia">Asia</string>
+    <string name="descripcion_asia">Asia es el continente más grande y el que presenta la mayor diversidad de razas, culturas y lenguas del mundo. Ocupa una superficie de 44.614.000 kilómetros cuadrados, que representa las 4/5 partes de la masa continental de Eurasia y que equivale a 1/3 de la superficie terrestre total.</string>
+    <string name="titulo_europa">Europa</string>
+    <string name="descripcion_europa">Europa es el segundo continente más pequeño del mundo, solo por detrás de Oceanía. Tiene una superficie de 10 359 358 km²,​ lo que representa el 6,8% de las tierras emergidas. A finales de 2016 estaba compuesta por cincuenta países, incluyendo Rusia y Turquía, aunque la mayor parte de sus territorios sean asiáticos.</string>
+    <string name="titulo_oceania" />
+    <string name="titulo_oceaniaa">Oceanía</string>
+    <string name="descripcion_oceania">Oceanía es un continente insular que se extiende por el Pacífico y está constituido por la plataforma continental de Australia, las islas de Nueva Guinea, Nueva Zelanda y los archipiélagos coralinos y volcánicos de Melanesia, Micronesia y Polinesia.</string>
+    <string name="bienvenida">Hola Bienvenido! </string>
+    <string name="descripcion_main">Esta es mi Tarea para PMDM02</string>
+
+</resources>

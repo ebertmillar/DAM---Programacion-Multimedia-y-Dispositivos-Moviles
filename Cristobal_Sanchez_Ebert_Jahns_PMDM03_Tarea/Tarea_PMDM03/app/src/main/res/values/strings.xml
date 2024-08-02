@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Tarea_PMDM03</string>
+    <string name="subtitulo_lista_main">Gestión de mensajes de Publicidad</string>
+    <string name="regitrarCliente">REGISTRAR CLIENTE</string>
+    <string name="menu_registar_cliente">REGISTRAR CLIENTE</string>
+    <string name="creditos">Creditos</string>
+    <string name="instrucciones">Instrucciones</string>
+    <string name="nombre">Nombre</string>
+    <string name="telefono">Teléfono</string>
+    <string name="escribe_mensaje">Escribe tu mensaje personalizado</string>
+</resources>

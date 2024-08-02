@@ -1,0 +1,18 @@
+hola David, 
+
+Te adjunto dos carpetas una para cada actividad de esta tarea
+
+actvidad1: adjunto directrio del proyecto de netbenas y un video de como funciona el juego.
+Hay uan parte en el video que parece que la imagen se queda estatica esto es porque estoy activando
+y desactivando la gravedad presionando la letra G
+
+actividad2: adjunto un video de como funciona el juego, y un video del paso4
+He tenido incoveniente para enviarte la carpeta completa de unity porque todo el proyecto pesa 1GB
+la libreria sola tiene un tamaño de 750MB, Debido a que la plataforma solo tiene un limite de 250MB
+he optado por solo enviarte la carpeta Assets que es donde he trabajado sobre todo 
+la carpeta Scripts y la carpeta Scense.
+
+por ultimo te he adjuntado un PDF de 26 paginas donde muestro como he ido desarrollando la tarea.
+
+Gracias.
+
